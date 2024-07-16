@@ -1,0 +1,103 @@
+@media screen and (min-width: 375px) {
+  .homeSection {
+    padding-top: 230px;
+    padding-bottom: 155px;
+    background-image: url("../../images/background-images/home/shape.png"),
+      url("../../images/background-images/home/elipse.png"),
+      url("../../images/background-images/home/sitka-mob.png"),
+      url("../../images/background-images/home/shape.png");
+    background-position: 77px 373px, bottom center, center center, 77px 612px;
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+    background-size: 240px 12px, cover, cover, 240px 12px;
+  }
+  .h {
+    color: #fff;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    width: 301px;
+    margin: 0 auto;
+    margin-bottom: 155px;
+  }
+  .p {
+    color: #fff;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+  }
+  .span {
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .homeSection {
+    padding-top: 475px;
+    padding-bottom: 405px;
+    background-image: url("../../images/background-images/home/sitka.png"),
+      url("../../images/background-images/home/elipse.png"),
+      url("../../images/background-images/home/shape.png");
+    background-position: center center, bottom center, center calc(100% - 325px);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-size: 1920px auto, 1920px auto, 600px 30px;
+  }
+  @media only screen and (-webkit-min-device-pixel-ratio: 2),
+    only screen and (min--moz-device-pixel-ratio: 2),
+    only screen and (-o-min-device-pixel-ratio: 2/1),
+    only screen and (min-device-pixel-ratio: 2),
+    only screen and (min-resolution: 192dpi),
+    only screen and (min-resolution: 2dppx) {
+    .homeSection {
+      background-image: url("../../images/background-images/home/sitka@2x.png"),
+        url("../../images/background-images/home/elipse@2x.png"),
+        url("../../images/background-images/home/shape@2x.png");
+      background-position: center center, bottom center,
+        center calc(100% - 325px);
+      background-repeat: no-repeat, no-repeat, no-repeat;
+      background-size: cover, cover, 600px 30px;
+      background-clip: padding-box;
+    }
+  }
+  .h {
+    color: #fff;
+    width: max-content;
+    font-family: "Montserrat", sans-serif;
+    font-size: 5rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 0;
+  }
+  .p {
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  .span {
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    text-align: center;
+  }
+}

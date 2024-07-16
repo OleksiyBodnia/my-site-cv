@@ -1,0 +1,15 @@
+.icon{
+    fill: rgba(255, 255, 255, 0.80);
+    width: 44px;
+    height: 44px;
+    transition: fill 0.3s ease-in-out;
+}
+.icon:hover,
+.icon:focus{
+    fill: rgba(100, 47, 210, 0.70);
+}
+.socialList{
+    display: flex;
+    align-items: center;
+    gap: 44px;
+}

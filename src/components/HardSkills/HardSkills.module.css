@@ -1,0 +1,169 @@
+@media screen and (min-width: 375px) {
+  .hardScills {
+    padding: 98px 25px 104px 25px;
+    position: relative;
+    height: auto;
+    background-image: url("../../images/background-images/hard-skills/sitka-bot.png"),
+      url("../../images/background-images/hard-skills/sitka-bot.png");
+    background-position: center bottom, center top;
+    background-repeat: no-repeat, no-repeat;
+    background-size: contain, contain;
+  }
+  .h {
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-bottom: 35px;
+  }
+  .p {
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+    width: 325px;
+  }
+  .item {
+    width: 325px;
+    padding-bottom: 20px;
+    flex-shrink: 0;
+    padding-top: 35px;
+    border-radius: 35px;
+    border: 5px solid var(--Stroke, rgba(100, 47, 210, 0.7));
+    background: #1c1c1c;
+    box-shadow: 0px 4px 70px 0px rgba(100, 47, 210, 0.3),
+      0px 4px 4px 0px rgba(255, 255, 255, 0.7) inset;
+    backdrop-filter: blur(50px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .itemH {
+    color: #fff;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-bottom: 35px;
+  }
+  .itemP {
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 255px;
+  }
+  .itemImg {
+    width: 10vw;
+    filter: brightness(50%);
+    margin-bottom: 5px;
+  }
+  .list li:nth-child(3) {
+    padding-top: 0;
+  }
+  .list {
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .hardScills {
+    padding: 100px 5vw 0 5vw;
+    position: relative;
+    height: 1335px;
+    background-image: url("../../images/hard-skills/sitka.png"),
+      url("../../images/hard-skills/sitka2.png");
+    background-position: 506px 65px, left -180px;
+    background-repeat: no-repeat, no-repeat;
+    background-size: contain, contain;
+  }
+  .h {
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+  }
+  .p {
+    color: #fff;
+    font-family: "Montserrat" sans-serif;
+    width: 630px;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+  }
+  .item {
+    width: 25vw;
+    padding-bottom: 20px;
+    flex-shrink: 0;
+    padding-top: 50px;
+    border-radius: 50px;
+    border: 10px solid var(--Stroke, rgba(100, 47, 210, 0.7));
+    background: #1c1c1c;
+
+    /* Color Shadow */
+    box-shadow: 0px 4px 100px 0px rgba(100, 47, 210, 0.5),
+      0px 2px 2px 0px rgba(255, 255, 255, 0.7) inset;
+    backdrop-filter: blur(50px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .itemH {
+    color: #fff;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+  }
+  .itemP {
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 90%;
+  }
+  .itemImg {
+    filter: brightness(50%);
+    margin-bottom: 24px;
+  }
+  .list li:first-child {
+    position: absolute;
+    top: 586px;
+  }
+  .list li:nth-child(2) {
+    position: absolute;
+    top: 435px;
+    left: 40vw;
+  }
+  .list li:nth-child(3) {
+    padding-top: 0;
+    position: absolute;
+    top: 285px;
+    left: 70vw;
+  }
+}

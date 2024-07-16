@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-02-28 15:36+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. js-lingui-explicit-id
+msgid "Vadym bezsmertnyi"
+msgstr "Vadym bezsmertnyi"
+
+#. js-lingui-explicit-id
+msgid "Design by @meellovve"
+msgstr "Design by @meellovve"
+
+#. js-lingui-explicit-id
+msgid "Vadym"
+msgstr "Vadym"
+
+#. js-lingui-explicit-id
+msgid "Bezsmertnyi"
+msgstr "Bezsmertnyi"
+
+#. js-lingui-explicit-id
+msgid "Soft skills"
+msgstr "Soft skills"
+
+#. js-lingui-explicit-id
+msgid "I am an experienced Front-end Developer specializing in ReactJS/React Native, TypeScript, Redux, and Testing."
+msgstr "I am an experienced Front-end Developer specializing in ReactJS/React Native, TypeScript, Redux, and Testing."
+
+#. js-lingui-explicit-id
+msgid "With a strong background in web development, I have a proven  track record of creating user-friendly and visually appealing interfaces."
+msgstr "With a strong background in web development, I have a proven  track record of creating user-friendly and visually appealing interfaces."
+
+#. js-lingui-explicit-id
+msgid "I am passionate about staying up-to-date with the latest technologies and industry trends to deliver high-quality and efficient solutions."
+msgstr "I am passionate about staying up-to-date with the latest technologies and industry trends to deliver high-quality and efficient solutions."
+
+#. js-lingui-explicit-id
+msgid "I thrive in collaborative environments and enjoy working with cross-functional teams to bring ideas to life."
+msgstr "I thrive in collaborative environments and enjoy working with cross-functional teams to bring ideas to life."
+
+#. js-lingui-explicit-id
+msgid "HARD SKILLS"
+msgstr "HARD SKILLS"
+
+#. js-lingui-explicit-id
+msgid "React Native and Front End Developer websites, Mobile Apps and Business Logic"
+msgstr "React Native and Front End Developer websites, Mobile Apps and Business Logic"
+
+#. js-lingui-explicit-id
+msgid "websites"
+msgstr "websites"
+
+#. js-lingui-explicit-id
+msgid "I create modern websites with elegant design and high performance. My professional approach to website development ensures an excellent user experience."
+msgstr "I create modern websites with elegant design and high performance. My professional approach to website development ensures an excellent user experience."
+
+#. js-lingui-explicit-id
+msgid "mobile apps"
+msgstr "mobile apps"
+
+#. js-lingui-explicit-id
+msgid "I develop mobile apps for iOS and Android with a user-friendly interface and high speed.My apps combine modernd design with functionality to meet users' needs."
+msgstr "I develop mobile apps for iOS and Android with a user-friendly interface and high speed.My apps combine modernd design with functionality to meet users' needs."
+
+#. js-lingui-explicit-id
+msgid "I have experience in backend development using various services. I ensure the reliability, scalability, and security of your applications through the efficient use of databases and APIs."
+msgstr "I have experience in backend development using various services. I ensure the reliability, scalability, and security of your applications through the efficient use of databases and APIs."
+
+#. js-lingui-explicit-id
+msgid "Developer"
+msgstr "Developer"
+
+#. js-lingui-explicit-id
+msgid "Vadym Bezsmertnyi"
+msgstr "Vadym Bezsmertnyi"
+
+#. js-lingui-explicit-id
+msgid "Home"
+msgstr "Home"
+
+#. js-lingui-explicit-id
+msgid "Hard Skills"
+msgstr "Hard Skills"
+
+#. js-lingui-explicit-id
+msgid "Technical Skills"
+msgstr "Technical Skills"
+
+#. js-lingui-explicit-id
+msgid "Soft Skills"
+msgstr "Soft Skills"
+
+#. js-lingui-explicit-id
+msgid "Contacts"
+msgstr "Contacts"
+
+#. js-lingui-explicit-id
+msgid "More than 10 technical programming skills"
+msgstr "More than 10 technical programming skills"
+
+#. js-lingui-explicit-id
+msgid "Languages and Technologies: HTML5, XML, JavaScript (ES6+), Typescript, Web Sockets."
+msgstr "Languages and Technologies: HTML5, XML, JavaScript (ES6+), Typescript, Web Sockets."
+
+#. js-lingui-explicit-id
+msgid "Frameworks and Libraries: ReactJS (including Hooks, Router, and Lifecycle)."
+msgstr "Frameworks and Libraries: ReactJS (including Hooks, Router, and Lifecycle)."
+
+#. js-lingui-explicit-id
+msgid " Form and Server Interaction: React Tools (Formik, Axios, and others)."
+msgstr " Form and Server Interaction: React Tools (Formik, Axios, and others)."
+
+#. js-lingui-explicit-id
+msgid "Development Tools: Git, GitHub, GitLab, Bitbucket, Docker, Developer Tools, Webpack, CI/CD."
+msgstr "Development Tools: Git, GitHub, GitLab, Bitbucket, Docker, Developer Tools, Webpack, CI/CD."
+
+#. js-lingui-explicit-id
+msgid "State Management: Context, Redux, Middleware (Thunk, Redux-Saga), Reduxtoolkit."
+msgstr "State Management: Context, Redux, Middleware (Thunk, Redux-Saga), Reduxtoolkit."
+
+#. js-lingui-explicit-id
+msgid "NextJS, Intermediate Material UI, Bootstrap, jQuery, React Native and Expo."
+msgstr "NextJS, Intermediate Material UI, Bootstrap, jQuery, React Native and Expo."
+
+#. js-lingui-explicit-id
+msgid "Testing: Cypress, Jest, Jest snapshot."
+msgstr "Testing: Cypress, Jest, Jest snapshot."
+
+#. js-lingui-explicit-id
+msgid "ChatGPT/OpenAI Other Skills:"
+msgstr "ChatGPT/OpenAI Other Skills:"
+
+#. js-lingui-explicit-id
+msgid "Working with REST API."
+msgstr "Working with REST API."
+
+#. js-lingui-explicit-id
+msgid "Management tools: Jira."
+msgstr "Management tools: Jira."
+
+#. js-lingui-explicit-id
+msgid "Design and Prototyping: Wireframe (Photoshop, Figma, Zeplin, Avocode)"
+msgstr "Design and Prototyping: Wireframe (Photoshop, Figma, Zeplin, Avocode)"
+
+#. js-lingui-explicit-id
+msgid "Strong analytical and problem-solving skills."
+msgstr "Strong analytical and problem-solving skills."
+
+#. js-lingui-explicit-id
+msgid "Familiarity with Lingui, Husky, Zod, SSR, Utility types."
+msgstr "Familiarity with Lingui, Husky, Zod, SSR, Utility types."
+
+#. js-lingui-explicit-id
+msgid "technical skills"
+msgstr "technical skills"
+
+#. js-lingui-explicit-id
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#. js-lingui-explicit-id
+msgid "Terms of Use"
+msgstr "Terms of Use"

@@ -1,0 +1,84 @@
+@media screen and (min-width: 375px){
+    .sidebar {
+        position: fixed;
+        top: 0;
+        left: -302px; /* Початкове положення за межами екрану */
+        width: 302px;
+        height: 100vh;
+        background: #1C1C1C; /* Колір фону для меню */
+        box-shadow: -2px 0 5px rgba(0, 0, 0, 0.5);
+        transition: left 0.3s ease; /* Плавна анімація */
+        z-index: 1000;
+        padding: 70px 34px 0px 34px;
+        background-image: url('../../images/background-images/mobile-menu/shape.png'),
+        url('../../images/background-images/mobile-menu/shape2.png');
+        background-position: 19px 148px, 19px 613px;
+        background-repeat: no-repeat, no-repeat;
+        background-size: 255px 15px, 255px 15px;
+      }
+      
+      .sidebar.open {
+        left: 0; /* Положення меню при відкритті */
+    }
+    
+    .name{
+        color: #FFF;
+        font-family: "Montserrat", sans-serif;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase;
+    }
+    .position{
+        opacity: 0.8;
+        color: #FFF;
+        font-family: "Montserrat", sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase;
+        margin-bottom: 119px;
+    }
+    .navLink{
+        color: #FFF;
+        text-align: center;
+        font-family: "Montserrat", sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    }
+    .navList{
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+        align-items: start;
+        margin-bottom: 119px;
+    }
+    .socialList{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .fb, .tg, .ig{
+        width: 50px;
+        height: 50px;
+        fill: #FFF;
+    }
+    .closeBtn{
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        width: 28px;
+        height: 28px;
+        fill: #FFF;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .sidebar{
+        display: none;
+    }
+}

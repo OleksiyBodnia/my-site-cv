@@ -1,0 +1,19 @@
+.navList{
+    display: flex;
+    align-items: center;
+    gap: 70px;
+}
+.navItem{
+    color: #FFF;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    transition: color 0.3s ease-in-out;
+}
+.navItem:hover,
+.navItem:focus{
+    color: rgba(100, 47, 210, 0.70);
+}
